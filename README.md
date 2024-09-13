@@ -11,10 +11,10 @@
 ### Grocery dataset:
 This dataset tells about the Grocery purchased and this data is taken from kaggle website. we will try to understand the dataset by using pandas ,numpy for data storing and processing and for visualization we use matplotlib and seaborn The data contains 7 columns.
 
-Member_number: unique number id.
-Date: Date of transaction.
-itemDescription: name of item.
-year:year of transaction.
-month:month of transaction.
-day:day of transaction.
-day_of_week:day of transaction in week.
+Member_number: unique number id.<br>
+Date: Date of transaction.<br>
+itemDescription: name of item.<br>
+year:year of transaction.<br>
+month:month of transaction.<br>
+day:day of transaction.<br>
+day_of_week:day of transaction in week.<br>
